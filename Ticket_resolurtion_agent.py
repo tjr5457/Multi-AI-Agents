@@ -1,4 +1,4 @@
-## 🛠️ **Agent #51: Automated Ticket Resolution Agent**
+## 🛠️ **Agent: Automated Ticket Resolution Agent**
 
 ### 📝 Overview
 
@@ -140,3 +140,4 @@ streamlit run app.py
    **Follow-Up:** Ask user to confirm when fixed.
 
 ---
+
